@@ -1,2 +1,0 @@
-# ComponyPorfile
-My Compony Profile
